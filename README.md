@@ -1,7 +1,6 @@
 # Hafsa-Nafli
-Small Description About Me
-<ul>
-<li>An Undergraduate</li>
-<li>Following Bachelorate in Information System</li>
-<li>Wish to become an aspiring person in the field of IT </li>
-</ul>
+
+🎓 A Second Year BSc(hons) Information System Undergraduate at the Sabaragamuwa University of Sri Lanka.<br>
+🎓 AAT Passed Finalist. <br>
+🚀 Wish to become an aspiring professional in the field of IT. <br>
+
